@@ -1,4 +1,3 @@
 # my-resume
 
-var name = "samad"
-console.log(name);
+Build this resume site got HNGi8 internship.
